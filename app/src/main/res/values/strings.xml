@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="shared_pref_key">sharedPrefKey</string>
+    <string name="saved_query">sharedPref.query</string>
+</resources>
